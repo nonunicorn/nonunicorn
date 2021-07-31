@@ -1,7 +1,5 @@
 Hi everyone!
-Soon we're going to have latest updates here in a better format.
-
-As of now, we're working hard to release our new UI by mid of Sept.
+Currently we're working hard to release our new UI by mid of Sept and get more code pieces into our library.
 
 ### Some fresh code pieces:
 - [Save your changes without making commits in Git](https://onelinerhub.com/javascript/window_width_height)
