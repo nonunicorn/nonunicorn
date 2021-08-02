@@ -2,6 +2,7 @@ Hi everyone!
 Currently we're working hard to release our new UI by mid of Sept and get more code pieces into our library.
 
 ### Some fresh code pieces:
+- [Postgres essentials](https://onelinerhub.com/?q=postgres/)
 - [Save your changes without making commits in Git](https://onelinerhub.com/javascript/window_width_height)
 - [Get width/height of a window in Javascript](https://onelinerhub.com/javascript/window_width_height)
 - [Basic HTTP auth with Nginx](https://onelinerhub.com/nginx/http_auth)
