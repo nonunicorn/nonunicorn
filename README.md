@@ -7,4 +7,4 @@ Currently we're working hard to release our new UI by mid of Sept and get more c
 - [Certbot installation and usage](https://onelinerhub.com/?q=certbot/)
 - [Websocket client](https://onelinerhub.com/php-swoole/websocket_client) and [Websocket server](https://onelinerhub.com/php-swoole/websocket_server) examples based on Swoole and PHP
 - [Reverse list using slicing in Python](https://onelinerhub.com/python/reverse_a_list_slicing)
-- ... and 750+ mode [code pieces](https://onelinerhub.com/)
+- ... and ~800 mode [code pieces](https://onelinerhub.com/)
