@@ -1,7 +1,3 @@
-Hi everyone, I'm Joe, chief code editor for [onelinerhub.com](https://onelinerhub.com/). Please feel free to join our [community here](https://github.com/Onelinerhub).
-
-Help us [add new codes](https://github.com/Onelinerhub/onelinerhub#help-by-contributing) by making [pull requests](https://github.com/Onelinerhub/onelinerhub/pulls).
-
-Leave your ideas/reports [in issues](https://github.com/Onelinerhub/onelinerhub/issues).
+Hi everyone, I'm Joe, chief code editor for [onelinerhub.com](https://onelinerhub.com/). Join our [organization on github](https://github.com/Onelinerhub) as contributors. [Help us build](https://github.com/Onelinerhub/onelinerhub/blob/main/how-to-contribute.md#how-to-contribute-to-onelinerhub) opensource community driven code library and integrations. Leave your feedback/requests/ideas/... [in issues](https://github.com/Onelinerhub/onelinerhub/issues).
 
 Want to contribute, but don't code? Contact me to sponsor or donate @ joe@onelinerhub.com or through [linkedin](https://www.linkedin.com/in/joe-onelinerhub/).
