@@ -2,4 +2,4 @@ Hi everyone, I'm Joe, chief code editor for [onelinerhub.com](https://onelinerhu
 
 Want to contribute, but don't code? Contact me to sponsor or donate @ joe@onelinerhub.com or through [linkedin](https://www.linkedin.com/in/joe-onelinerhub/).
 
-Our [official Linkedin Company page](https://www.linkedin.com/company/onelinerhub/), [Twitter](https://twitter.com/JosephMarkberg) and [Youtube channel](https://www.youtube.com/channel/UCRtux0BT0CBgEwY3CXAkE0w)
+Our [official Linkedin page](https://www.linkedin.com/company/onelinerhub/), [Twitter](https://twitter.com/JosephMarkberg) and [Youtube channel](https://www.youtube.com/channel/UCRtux0BT0CBgEwY3CXAkE0w)
